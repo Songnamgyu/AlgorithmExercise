@@ -41,4 +41,7 @@ public class MinMaxExercise {
         int min2 = min3(1, -1000, -99, -99999);
         System.out.println("4개 값중 최솟값은 : " + min2);
     }
+
+
+
 }
